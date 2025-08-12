@@ -1,3 +1,11 @@
+# Purecontrol specific
+
+To build & run
+
+`docker compose -f docker-compose-purecontrol.yaml build`
+`docker compose -f docker-compose-purecontrol.yaml up -d`
+
+
 # Proxmox Backup Server Exporter
 
 [![license](https://img.shields.io/github/license/natrontech/pbs-exporter)](https://github.com/natrontech/pbs-exporter/blob/main/LICENSE)
